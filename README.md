@@ -1,0 +1,1 @@
+This course is aimed at graduate students with a STEM background. Actually it is taught at the Master in Quantum Information Science and Technology (https://quantummastergalicia.es/) where students with different backgrounds are enroled. 
