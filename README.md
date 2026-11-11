@@ -13,7 +13,7 @@ The notebook provides necessary tools to introduce readers to concepts in quantu
 
 **Educational content license**: Original text and figures: Creative Commons Attribution 4.0 International (CC BY 4.0), as declared in the supplied notebook: https://creativecommons.org/licenses/by/4.0/ . Third-party material, including supplied branding, retains its own applicable terms.
 
-**Suggested citation**: *J. Mas , Quantum Information: Concepts and Tools.*
+**Suggested citation**: *J. Mas , Quantum Information: Concepts and Tools.* https://github.com/jamasole/Quantum_Information_Concepts_and_Tools.git
 <br>
 <br>
 <br>
