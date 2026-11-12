@@ -1,200 +1,39 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "<figure>\n",
-    "<a id='fig_ref'></a>\n",
-    "<img src=\"images/logos/logo_usc.jpg\" align=right width='120px'/>\n",
-    "</figure>\n",
-    "\n",
-    "<br>\n",
-    "<br>\n",
-    "<br>\n",
-    "<br>\n",
-    "\n",
-    "<table width=\"100%\"><td style=\" font_style:italic; font-size:50px;text-align:center;background-color:rgba(0, 220, 170,0.7)\">\n",
-    "<div>\n",
-    "Quantum Information:\n",
-    "Concepts and Tools\n",
-    "</div>\n",
-    "</td></table>\n",
-    "\n",
-    "\n",
-    "\n",
-    "**Author**: *Javier Mas. Universidade de Santiago de Compostela and IGFAE.*\n",
-    "\n",
-    "**Code license**: *European Union Public Licence (EUPL-1.2), as declared in the supplied notebook: https://eupl.eu/1.2/en/.*\n",
-    "\n",
-    "**Educational content license**: Original text and figures: Creative Commons Attribution 4.0 International (CC BY 4.0), as declared in the supplied notebook: https://creativecommons.org/licenses/by/4.0/ . Third-party material, including supplied branding, retains its own applicable terms.\n",
-    "\n",
-    "**Suggested citation**: J. Mas, *Quantum Information: Concepts and Tools.* https://github.com/jamasole/Quantum_Information_Concepts_and_Tools.git\n",
-    "<br>\n",
-    "<br>\n",
-    "<br>\n",
-    "\n",
-    "September 2026\n",
-    "\n",
-    "\n"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {
-    "slideshow": {
-     "slide_type": "-"
-    },
-    "tags": []
-   },
-   "source": [
-    "\n",
-    "[**Bibliography**](Bibliography.ipynb#fund)\n",
-    "\n",
-    "\n",
-    "\n",
-    "\n",
-    "## 1. The rules of the game\n",
-    "\n",
-    "\n",
-    "- ###  [1.1 Complex numbers](01_The_rules_of_the_game/011_Complex_Numbers.ipynb)      \n",
-    "- ###  [1.2 Vector spaces](01_The_rules_of_the_game/012_Vectors.ipynb)  \n",
-    "- ###  [1.3 Operators](01_The_rules_of_the_game/013_Operators.ipynb) \n",
-    "- ###  [1.4 Tensors](01_The_rules_of_the_game/014_Tensors.ipynb) \n",
-    "- ###  [1.5 Probabilities](01_The_rules_of_the_game/015_Probabilities.ipynb)\n",
-    "- ###  [1.6 Fundamentals of Quantum Mechanics](01_The_rules_of_the_game/016_QM_Fundamentals.ipynb)  \n"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {
-    "slideshow": {
-     "slide_type": "-"
-    }
-   },
-   "source": [
-    "## 2. Dancing with qubits\n",
-    "\n",
-    "- ###  [2.1  The qubit](02_Dancing_with_qubits/021_Qubits.ipynb) \n",
-    "- ###  [2.2  Physical qubits: spin](02_Dancing_with_qubits/022_Spin.ipynb) \n",
-    "- ###  [2.3  The art of measuring I](02_Dancing_with_qubits/023_MeasurementI.ipynb)\n",
-    "- ###  [2.4  Multi-qubits](02_Dancing_with_qubits/024_Multiqubits.ipynb)   \n",
-    "- ###  [2.5  The art of measuring II](02_Dancing_with_qubits/025_MeasurementII.ipynb)\n"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "## 3. Quantum topics\n",
-    "\n",
-    "- ###  [3.1 Entanglement in action](04_Topics_in_quantum_mechanics/041_Entanglement.ipynb)\n",
-    "- ###  [3.2 Mixed quantum states](04_Topics_in_quantum_mechanics/042_Density_Operator.ipynb)\n",
-    "- ###  [3.3 Open quantum systems](04_Topics_in_quantum_mechanics/043_Open_Quantum_Systems.ipynb)\n",
-    "- ###  [3.4 The art of measuring III: generalized measurements](04_Topics_in_quantum_mechanics/044_General_Measurement.ipynb)\n",
-    "\n",
-    "\n"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "\n",
-    "## 4. Elements of quantum information \n",
-    "\n",
-    "- ###  [4.1 Classical information theory](05_Elements_of_quantum_information/051_Classical_Info.ipynb)\n",
-    "- ###  [4.2 Quantum information theory](05_Elements_of_quantum_information/052_Quantum_Info.ipynb)\n",
-    "\n"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "## 5. Basics of quantum computing\n",
-    "\n",
-    "- ###  [5.1 Elementary quantum circuitry](03_Basic_quantum_computing/031_Basic_Circuits.ipynb) \n",
-    "- ###  [5.2 Quantum circuits for classical computing](03_Basic_quantum_computing/032_Classical_Comp.ipynb)\n",
-    "- ###  [5.3 Oracle algorithms](03_Basic_quantum_computing/033_Oracle_algorithms.ipynb) \n",
-    "- ###  [5.4 Quantum Fourier transform](03_Basic_quantum_computing/034_QFT.ipynb)\n",
-    "- ###  [5.5 Quantum phase estimation](03_Basic_quantum_computing/035_QPE.ipynb)\n",
-    "- ###  [5.6 Search algorithms](03_Basic_quantum_computing/036_Search_algo.ipynb)\n"
-   ]
-  }
- ],
- "metadata": {
-  "celltoolbar": "Slideshow",
-  "kernelspec": {
-   "display_name": "Python 3 (ipykernel)",
-   "language": "python",
-   "name": "python3"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.11.14"
-  },
-  "nbTranslate": {
-   "displayLangs": [
-    "*"
-   ],
-   "hotkey": "alt-t",
-   "langInMainMenu": true,
-   "sourceLang": "en",
-   "targetLang": "fr",
-   "useGoogleTranslate": true
-  },
-  "toc": {
-   "base_numbering": 1,
-   "nav_menu": {},
-   "number_sections": true,
-   "sideBar": true,
-   "skip_h1_title": true,
-   "title_cell": "Table of Contents",
-   "title_sidebar": "Contents",
-   "toc_cell": false,
-   "toc_position": {},
-   "toc_section_display": true,
-   "toc_window_display": false
-  },
-  "varInspector": {
-   "cols": {
-    "lenName": 16,
-    "lenType": 16,
-    "lenVar": 40
-   },
-   "kernels_config": {
-    "python": {
-     "delete_cmd_postfix": "",
-     "delete_cmd_prefix": "del ",
-     "library": "var_list.py",
-     "varRefreshCmd": "print(var_dic_list())"
-    },
-    "r": {
-     "delete_cmd_postfix": ") ",
-     "delete_cmd_prefix": "rm(",
-     "library": "var_list.r",
-     "varRefreshCmd": "cat(var_dic_list()) "
-    }
-   },
-   "types_to_exclude": [
-    "module",
-    "function",
-    "builtin_function_or_method",
-    "instance",
-    "_Feature"
-   ],
-   "window_display": false
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 4
-}
+# Quantum Information Concepts and Tools
+
+This course  is aimed at graduate students with a STEM background with an interdisciplinary approach. 
+
+At present, part of it is taught at the Master in Quantum Information Science and Technology [MQIST](https://quantummastergalicia.es/en/) , where students with different backgrounds (physics, engineers, computer science etc.) are enroled. 
+
+The notebook provides necessary tools to introduce readers to concepts in quantum information processing. It contains simple codes to work out examples that will allow to fix and master the concepts. 
+
+
+**Author**: *Javier Mas. Universidade de Santiago de Compostela and IGFAE.*
+
+**Code license**: *European Union Public Licence (EUPL-1.2), as declared in the supplied notebook: https://eupl.eu/1.2/en/.*
+
+**Educational content license**: Original text and figures: Creative Commons Attribution 4.0 International (CC BY 4.0), as declared in the supplied notebook: https://creativecommons.org/licenses/by/4.0/ . Third-party material, including supplied branding, retains its own applicable terms.
+
+**Suggested citation**: *J. Mas , Quantum Information: Concepts and Tools.* https://github.com/jamasole/Quantum_Information_Concepts_and_Tools.git
+<br>
+<br>
+<br>
+
+September 2026
+
+
+
+[**Bibliography**](Bibliography.ipynb#fund)
+
+
+
+
+## 1. The rules of the game
+
+
+- ###  [1.1 Complex numbers](01_The_rules_of_the_game/011_Complex_Numbers.ipynb)      
+- ###  [1.2 Vector spaces](01_The_rules_of_the_game/012_Vectors.ipynb)  
+- ###  [1.3 Operators](01_The_rules_of_the_game/013_Operators.ipynb) 
+- ###  [1.4 Tensors](01_The_rules_of_the_game/014_Tensors.ipynb) 
+- ###  [1.5 Probabilities](01_The_rules_of_the_game/015_Probabilities.ipynb)
+- ###  [1.6 Fundamentals of Quantum Mechanics](01_The_rules_of_the_game/016_QM_Fundamentals.ipynb)  
+
