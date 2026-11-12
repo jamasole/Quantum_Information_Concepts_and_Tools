@@ -37,3 +37,33 @@ September 2026
 - ###  [1.5 Probabilities](01_The_rules_of_the_game/015_Probabilities.ipynb)
 - ###  [1.6 Fundamentals of Quantum Mechanics](01_The_rules_of_the_game/016_QM_Fundamentals.ipynb)  
 
+## 2. Dancing with qubits
+
+- ###  [2.1  The qubit](02_Dancing_with_qubits/021_Qubits.ipynb) 
+- ###  [2.2  Physical qubits: spin](02_Dancing_with_qubits/022_Spin.ipynb) 
+- ###  [2.3  The art of measuring I](02_Dancing_with_qubits/023_MeasurementI.ipynb)
+- ###  [2.4  Multi-qubits](02_Dancing_with_qubits/024_Multiqubits.ipynb)   
+- ###  [2.5  The art of measuring II](02_Dancing_with_qubits/025_MeasurementII.ipynb)
+
+## 3. Quantum topics
+
+- ###  [3.1 Entanglement in action](04_Topics_in_quantum_mechanics/041_Entanglement.ipynb)
+- ###  [3.2 Mixed quantum states](04_Topics_in_quantum_mechanics/042_Density_Operator.ipynb)
+- ###  [3.3 Open quantum systems](04_Topics_in_quantum_mechanics/043_Open_Quantum_Systems.ipynb)
+- ###  [3.4 The art of measuring III: generalized measurements](04_Topics_in_quantum_mechanics/044_General_Measurement.ipynb)
+
+
+
+## 4. Elements of quantum information 
+
+- ###  [4.1 Classical information theory](05_Elements_of_quantum_information/051_Classical_Info.ipynb)
+- ###  [4.2 Quantum information theory](05_Elements_of_quantum_information/052_Quantum_Info.ipynb)
+
+## 5. Basics of quantum computing
+
+- ###  [5.1 Elementary quantum circuitry](03_Basic_quantum_computing/031_Basic_Circuits.ipynb) 
+- ###  [5.2 Quantum circuits for classical computing](03_Basic_quantum_computing/032_Classical_Comp.ipynb)
+- ###  [5.3 Oracle algorithms](03_Basic_quantum_computing/033_Oracle_algorithms.ipynb) 
+- ###  [5.4 Quantum Fourier transform](03_Basic_quantum_computing/034_QFT.ipynb)
+- ###  [5.5 Quantum phase estimation](03_Basic_quantum_computing/035_QPE.ipynb)
+- ###  [5.6 Search algorithms](03_Basic_quantum_computing/036_Search_algo.ipynb)
